@@ -1,0 +1,51 @@
+.navbar-custom {
+        background-color: #00004d;
+        font-family: 'Lobster', cursive;
+		font-family: 'Praise', cursive;
+		font-family: 'Vujahday Script', cursive;
+    }
+
+    .navbar-custom .navbar-brand {
+        font-size: auto;
+    }
+
+ body {
+        font-family: Arial, sans-serif;
+
+    }
+
+
+    section {
+        padding: 30px 0;
+    }
+
+    .card {
+        border-radius: 30px;
+    }
+
+    section.bagian {
+        padding-top: 123px;
+        padding-bottom: 123px;
+    }
+
+ 	h1{
+		font-family: 'Praise', cursive;
+		font-family: 'Vujahday Script', cursive;
+ 	}   
+
+footer {
+        font-size: 15px;
+        padding-top: 0;
+        font-family: 'Praise';
+		font-family: 'Vujahday Script', cursive;
+    }
+
+    footer .footer-above {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+
+    footer .footer-below {
+        padding: 20px 0;
+        background-color: #00004d;
+    }
